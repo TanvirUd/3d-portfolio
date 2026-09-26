@@ -1,7 +1,7 @@
 {
   "scripts": {
     "dev": "vite --host 0.0.0.0",
-    "build": "vite build --base=/",
+    "build": "vite build --base=/3d-portfolio",
     "preview": "vite preview"
   },
   "dependencies": {
